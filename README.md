@@ -1,4 +1,4 @@
-# Kickstarter_Challenge
+# Kickstarter_Data
 ## OVERVIEW OF PROJECT:
 Louise had reached her fundraising goal in such a short period of time that she wanted me to compile how other Kickstarters preformed relative to their launch date.
 
